@@ -18,10 +18,11 @@ This Jupyter notebook should run without errors using Python 3.x
 Traditional Master's degrees come with increasingly exorbitant costs. Even after the current Covid-19 pandemic abates and traditional in-person, in-classroom instruction resumes, many college-age individuals will have to confront the question whether taking on potentially five or six-figure debt provides the appropriate long-term payoff. 
 
 For this project I will perform the following analysis steps
-1. From Stack Overflow survey data, determine range of data scientist starting salary for cohorts with some college education or a bachelor's degree PLUS an online data science-specific training
-2. From Stack Overflow survey data, determine range of data scientist starting salary for cohorts with a Master's Degree 
+1. From Stack Overflow survey data, determine 
+    - ranges of data scientist starting salaries for cohorts with some college education or a bachelor's degree PLUS an online data science-specific training
+    - ranges of data scientist starting salary for cohorts with a Master's Degree 
 3. Compare these salary points with other public, credible sources
-4. Use a consolidated view of starting salaries as a starting point for an NPV calculation
+4. Use a consolidated view of these salary ranges as a starting point for a 20 year simplified income/net worth calculation
 5. Determine which cohort would attain a higher 'ROI' based on this simplified model after 20 years
 
 
