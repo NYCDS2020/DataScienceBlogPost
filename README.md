@@ -38,5 +38,5 @@ The main findings of the code can be found at the post available [here](https://
 
 - Stack Overflow for the invaluabule source data
 - Udacity Data Science Nanodegree for some of the routine pre-processing steps 
-- 
+- Chris Moffit for his excellent Python sample code for loan amortization [here](https://pbpython.com/amortization-model-revised.html)
 
