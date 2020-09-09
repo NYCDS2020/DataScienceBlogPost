@@ -32,7 +32,7 @@ There is 1 main notebook, 1 Python file containing utility functions, and 1 data
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@bjorn.austraat/investing-in-your-education-is-a-masters-degree-in-data-science-worth-it-ff228521b804?sk=f539ff52e9188933fcbc1f55a52fbe56).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
